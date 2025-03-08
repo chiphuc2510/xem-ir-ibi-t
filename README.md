@@ -14,7 +14,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Hôm nay ngày 8-3 anh chuac em luôn vui vẻ ,xinh đẹp ,thành công ,mong mọi thứ tốt đẹp nhất sẽ đén với em , yêu em❤️😙',
+    title: 'Hôm nay ngày 8-3 anh chúc em luôn vui vẻ ,xinh đẹp ,thành công ,mong mọi thứ tốt đẹp nhất sẽ đén với em , yêu em❤️😙',
     desc: 'Em có yêu anh không🤔',
     btnYes: 'Vẫn cứ là yêu anh <33',
     btnNo: 'Không, Anh trai à :3',
